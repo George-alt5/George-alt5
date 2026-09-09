@@ -1,16 +1,16 @@
-## Hi there 👋
+# George Kihoro
 
-<!--
-**George-alt5/George-alt5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Engineer | React | JavaScript | Python | Flask | AI
 
-Here are some ideas to get you started:
+I build production-ready web applications, APIs, and AI-powered tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+• Full-stack web development
+• REST APIs and backend systems
+• AI/GenAI applications
+• Cloud deployment and automation
+
+📍 Nairobi, Kenya
+💼 Open to remote opportunities
+
+[Portfolio] [https://www.linkedin.com/in/george-kihoro-480709421/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCxFpzGJnTfyX7fn6kUrGmw%3D%3D] [georgekihorodev@gmail.com]
