@@ -10,7 +10,8 @@ Currently focused on:
 • AI/GenAI applications
 • Cloud deployment and automation
 
-📍 Nairobi, Kenya
-💼 Open to remote opportunities
+Nairobi, Kenya
+Open to remote opportunities
 
-[Portfolio] [https://www.linkedin.com/in/george-kihoro-480709421/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCxFpzGJnTfyX7fn6kUrGmw%3D%3D] [georgekihorodev@gmail.com]
+[Portfolio] 
+[Linkedin:] [georgekihorodev@gmail.com]
